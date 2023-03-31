@@ -20,4 +20,4 @@ You can click the Preview link to take a look at your changes.
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Networkkiller&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-[![](https://visitcount.itsvg.in/api?id=networkkiller&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Networkkiller&icon=0&color=0)](https://visitcount.itsvg.in)

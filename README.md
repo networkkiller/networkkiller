@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johan-aybar-hernandez-1a6b85243) 
-<script src="https://tryhackme.com/badge/1870744"></script>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]"https://tryhackme.com/badge/1870744")
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Networkkiller&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Divanny&theme=dark&hide_border=false)<br/>

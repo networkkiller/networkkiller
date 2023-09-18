@@ -8,8 +8,7 @@
 networkkiller/networkkiller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/Voli.png" alt="TryHackMe">
+<img src="[https://tryhackme-badges.s3.amazonaws.com/Voli.png](https://tryhackme.com/badge/1870744")" alt="TryHackMe">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johan-aybar-hernandez-1a6b85243) 

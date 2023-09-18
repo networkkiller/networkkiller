@@ -9,7 +9,7 @@ networkkiller/networkkiller is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-
+<script src="https://tryhackme.com/badge/1870744"></script>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johan-aybar-hernandez-1a6b85243) 
 
